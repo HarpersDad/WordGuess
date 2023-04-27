@@ -1,12 +1,12 @@
 import random
 
 # word bank and variables
-words = ["python", "dog", "taco", "Kentucky", "moose", "Berea", "Madison", "pirates", "spoonbread"]
+words = ["python", "dog", "taco", "kentucky", "moose", "berea", "madison", "pirates", "spoonbread"]
 word = ""
 guessed_letter = ""
 
 # random number to choose the random word
-randNum = random.randrange(0,len(words))
+randNum = random.randrange(0, len(words))
 
 # set random word
 word = words[randNum]
