@@ -1,7 +1,7 @@
 import random
 
 # word bank and variables
-words = ["python", "dog", "taco", "kentucky", "moose", "berea", "madison", "pirates", "spoonbread"]
+words = ["python", "dog", "taco", "kentucky", "horse", "berea", "madison", "pirates", "spoonbread"]
 word = ""
 guessed_letter = ""
 
